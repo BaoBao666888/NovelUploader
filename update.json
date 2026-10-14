@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.5.1",
-      "version_code": "9",
+      "version_name": "0.5.2",
+      "version_code": "10",
       "mandatory": false,
-      "changelog": "Bản 0.5.1 để thử cập nhật từ 0.5.0\nGiữ nguyên chức năng và dữ liệu ứng dụng",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.1/NovelUploader-0.5.1.apk",
-      "sha256": "5036b676e065f2c1c57d8cadcc44288a79ce8b7e96a4ec4f7a4a75a14858d972",
-      "size": 3342633,
+      "changelog": "Sửa Autofill, bỏ Hải Đường và PO18\nGọn Công việc, thử lại có đối chiếu lịch sử\nSửa mô tả bổ sung và avatar bình luận\nTự dọn file cũ, giảm chữ in đậm trong Hộp thư",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.2/NovelUploader-0.5.2.apk",
+      "sha256": "99600912b51b210f2f7ad07ca51e7dd994b896befd7faf4c95b083f508bd0e57",
+      "size": 3355249,
       "min_sdk": 26
     }
   }
