@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.5.0",
-      "version_code": "8",
+      "version_name": "0.5.1",
+      "version_code": "9",
       "mandatory": false,
-      "changelog": "Cập nhật qua GitHub trong Cài đặt\nKiểm tra file và khóa ký trước khi cài\nBảo vệ mã bản phát hành",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.0/NovelUploader-0.5.0.apk",
-      "sha256": "a0df83152249d4e3fbd0d0091ff3168297853e8cf4cbcae50678c6c6816da2ce",
-      "size": 3342629,
+      "changelog": "Bản 0.5.1 để thử cập nhật từ 0.5.0\nGiữ nguyên chức năng và dữ liệu ứng dụng",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.1/NovelUploader-0.5.1.apk",
+      "sha256": "5036b676e065f2c1c57d8cadcc44288a79ce8b7e96a4ec4f7a4a75a14858d972",
+      "size": 3342633,
       "min_sdk": 26
     }
   }

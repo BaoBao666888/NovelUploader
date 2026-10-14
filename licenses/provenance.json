@@ -1,0 +1,29 @@
+[
+  {
+    "file": "commons-compress-1.28.0-LICENSE.txt",
+    "source": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "sha256": "51b88fd3e9e24edcdce1dd145a4fca2dcd12911407f00b06dfa6ff600f9733c1"
+  },
+  {
+    "file": "commons-compress-1.28.0-NOTICE.txt",
+    "source": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.28.0/commons-compress-1.28.0.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "sha256": "0d98967f0ab328af8d9d536aa9a5c684b5dd665657245f6ee6b5915affe811c0"
+  },
+  {
+    "file": "xz-1.10-0BSD.txt",
+    "source": "https://raw.githubusercontent.com/tukaani-project/xz-java/v1.10/LICENSES/0BSD.txt",
+    "sha256": "0b01625d853911cd0e2e088dcfb743261034a091bb379246cb25a14cc4c74bf1"
+  },
+  {
+    "file": "kotlin-2.2.10-LICENSE.txt",
+    "source": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.10/license/LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "file": "kotlin-2.2.10-COPYRIGHT.txt",
+    "source": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.10/license/COPYRIGHT.txt",
+    "sha256": "8f1a1700adb5490604c6094fb137bf73f6c28d3ee554b58f3ff8ef975a79672d"
+  }
+]
