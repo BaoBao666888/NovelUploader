@@ -1,0 +1,9 @@
+releases-local/
+*.apk
+*.p12
+*.jks
+*.keystore
+*.key
+keystore-password.txt
+asset-key.hex
+public-files.zip
