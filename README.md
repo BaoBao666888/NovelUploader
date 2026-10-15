@@ -5,10 +5,11 @@ App Android quản lý WikiCV, bản thảo TXT, nhúng truyện và hộp thư.
 **[Tải APK mới nhất](https://github.com/BaoBao666888/NovelUploader/releases/latest)** · Android 8 trở lên
 
 - Works online và cache thư viện, thông tin truyện và mục lục.
-- TXT, thư mục, ZIP/RAR/7z, lọc ký tự, tìm/thay thế và credit.
+- TXT, EPUB 2/3, thư mục, ZIP/RAR/7z, xem trước regex, hoàn tác và credit.
 - Hai bản nháp Nhúng mới/Sửa, Autofill và Gemini AI tùy chọn.
-- Trình duyệt có tab, dịch và chặn quảng cáo.
+- Trình duyệt có tab, dịch, chặn quảng cáo và menu nhấn giữ link/ảnh.
 - Tin nhắn, bình luận, báo lỗi và thông báo nền.
+- Diễn đàn có bài viết, thông báo và trò chuyện trong app.
 
 ## Cập nhật
 

@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.5.2",
-      "version_code": "10",
+      "version_name": "0.5.3",
+      "version_code": "11",
       "mandatory": false,
-      "changelog": "Sửa Autofill, bỏ Hải Đường và PO18\nGọn Công việc, thử lại có đối chiếu lịch sử\nSửa mô tả bổ sung và avatar bình luận\nTự dọn file cũ, giảm chữ in đậm trong Hộp thư",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.2/NovelUploader-0.5.2.apk",
-      "sha256": "99600912b51b210f2f7ad07ca51e7dd994b896befd7faf4c95b083f508bd0e57",
-      "size": 3355249,
+      "changelog": "Sửa nhãn lọc tình trạng và giới tính trong Thư viện Online\nTXT có xem trước regex, hoàn tác/làm lại, nhập EPUB 2/3 và chuyển nhiều chương tới vị trí mới\nChương trùng số chờ người dùng chèn. Chọn kiểm tra theo lượt nhập hoặc toàn bản thảo\nGhi chú bổ sung dùng số chương parse, chế độ bỏ parse dùng vị trí\nHộp thư có chọn và đánh dấu đã đọc hàng loạt\nTrình duyệt bố trí lại thanh công cụ, gợi ý lịch sử và mở link app trong tab mới. Nhấn giữ ảnh để mở, lưu, sao chép hoặc chia sẻ\nThêm diễn đàn với bài viết, thông báo, trò chuyện và thao tác theo quyền tài khoản",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.3/NovelUploader-0.5.3.apk",
+      "sha256": "c436543bac8dd3af80b841c5c6dbae47035efe761f8088ea1f7f64551beb7e93",
+      "size": 3415733,
       "min_sdk": 26
     }
   }
