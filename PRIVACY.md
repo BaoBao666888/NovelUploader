@@ -12,3 +12,6 @@ Quyền thông báo phục vụ hộp thư/công việc. Quyền cài ứng dụ
 người dùng chọn cài APK cập nhật, thao tác cuối do Android xác nhận.
 
 Chỉ dùng thao tác quản lý/upload trên nội dung bạn có quyền quản lý.
+
+Trong màn tìm kiếm trình duyệt, từ khóa đang gõ được gửi tới dịch vụ gợi ý Google.
+Lượt gợi ý không gửi cookie trình duyệt hoặc API key. Lịch sử và tìm kiếm gần đây lưu trên máy.

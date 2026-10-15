@@ -4,10 +4,10 @@
       "version_name": "0.5.3",
       "version_code": "11",
       "mandatory": false,
-      "changelog": "Sửa nhãn lọc tình trạng và giới tính trong Thư viện Online\nTXT có xem trước regex, hoàn tác/làm lại, nhập EPUB 2/3 và chuyển nhiều chương tới vị trí mới\nChương trùng số chờ người dùng chèn. Chọn kiểm tra theo lượt nhập hoặc toàn bản thảo\nGhi chú bổ sung dùng số chương parse, chế độ bỏ parse dùng vị trí\nHộp thư có chọn và đánh dấu đã đọc hàng loạt\nTrình duyệt bố trí lại thanh công cụ, gợi ý lịch sử và mở link app trong tab mới. Nhấn giữ ảnh để mở, lưu, sao chép hoặc chia sẻ\nThêm diễn đàn với bài viết, thông báo, trò chuyện và thao tác theo quyền tài khoản",
+      "changelog": "Sửa API diễn đàn lỗi404, quét thông báo và chat chung Hộp thư\nDiễn đàn ưu tiên chủ đề, bài viết và tin mới, gọn menu đánh dấu đã đọc\nSửa B/I/U khi viết bình luận WikiCV\nTXT có lọc chương đã chèn, xóa bản thảo và giới hạn hoàn tác\nTrình duyệt có màn tìm kiếm chung, gợi ý và lịch sử hiện tên web\nKhung địa chỉ gọn hơn, đổi chỗ Tab/Làm mới, màn tìm kiếm bỏ Home\nTXT hỗ trợ EPUB2/3, xem trước regex, chèn/chuyển chương và số trùng\nSửa nhãn lọc thư viện và khoảng số chương trong mô tả bổ sung\nNhấn giữ link/ảnh để mở tab, lưu ảnh, sao chép hoặc chia sẻ",
       "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.3/NovelUploader-0.5.3.apk",
-      "sha256": "c436543bac8dd3af80b841c5c6dbae47035efe761f8088ea1f7f64551beb7e93",
-      "size": 3415733,
+      "sha256": "77259c87733c537e7dd6d3ec307b3d91a7152a05a632ad77ae28a905bd9cad47",
+      "size": 3440981,
       "min_sdk": 26
     }
   }
