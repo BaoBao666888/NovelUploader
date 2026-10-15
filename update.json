@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.5.3",
-      "version_code": "11",
+      "version_name": "0.5.4",
+      "version_code": "12",
       "mandatory": false,
-      "changelog": "Sửa API diễn đàn lỗi404, quét thông báo và chat chung Hộp thư\nDiễn đàn ưu tiên chủ đề, bài viết và tin mới, gọn menu đánh dấu đã đọc\nSửa B/I/U khi viết bình luận WikiCV\nTXT có lọc chương đã chèn, xóa bản thảo và giới hạn hoàn tác\nTrình duyệt có màn tìm kiếm chung, gợi ý và lịch sử hiện tên web\nKhung địa chỉ gọn hơn, đổi chỗ Tab/Làm mới, màn tìm kiếm bỏ Home\nTXT hỗ trợ EPUB2/3, xem trước regex, chèn/chuyển chương và số trùng\nSửa nhãn lọc thư viện và khoảng số chương trong mô tả bổ sung\nNhấn giữ link/ảnh để mở tab, lưu ảnh, sao chép hoặc chia sẻ",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.3/NovelUploader-0.5.3.apk",
-      "sha256": "77259c87733c537e7dd6d3ec307b3d91a7152a05a632ad77ae28a905bd9cad47",
-      "size": 3440981,
+      "changelog": "Soạn tin diễn đàn trực quan, có định dạng và xem trước\nSửa skeleton khi làm mới Hộp thư và Diễn đàn\nAvatar và tên người gửi chat mở trang cá nhân\nGiữ URL đang xem để sửa, thêm menu nhấn giữ lịch sử và điền gợi ý\nBack từ liên kết về đúng màn app, đóng tab vừa mở\nThông báo hiện nội dung mới có sẵn trong dữ liệu quét",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.4/NovelUploader-0.5.4.apk",
+      "sha256": "143349321b1290a6e2d4989c5e1bda9962cc52d1ad468f9621175d201132d243",
+      "size": 3533026,
       "min_sdk": 26
     }
   }

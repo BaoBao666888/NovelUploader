@@ -1,0 +1,44 @@
+[
+  {
+    "name": "marked",
+    "version": "18.1.1",
+    "license": "MIT",
+    "source": {
+      "url": "git+https://github.com/markedjs/marked.git",
+      "type": "git"
+    },
+    "tarball": "https://registry.npmjs.org/marked/-/marked-18.1.1.tgz",
+    "integrity": "sha512-zEGgrtUG8crk+TrMacJSVABU4DYDDkS8uqgU3ohrn/2fW9C2AEfUrO3m6IhpIpQpl7YcVpiXXC9cSMWDANT3dg==",
+    "asset": "app/src/main/assets/vendor/marked.js",
+    "sha256": "b82b9334406d8bdd16b6236c08de1cb65b2a859873ca9503d9cc0b292ca3c12a",
+    "notice": "third_party/notices/marked-18.1.1-LICENSE.txt"
+  },
+  {
+    "name": "turndown",
+    "version": "7.2.4",
+    "license": "MIT",
+    "source": {
+      "url": "git+https://github.com/mixmark-io/turndown.git",
+      "type": "git"
+    },
+    "tarball": "https://registry.npmjs.org/turndown/-/turndown-7.2.4.tgz",
+    "integrity": "sha512-I8yFsfRzmzK0WV1pNNOA4A7y4RDfFxPRxb3t+e3ui14qSGOxGtiSP6GjeX+Y6CHb7HYaFj7ECUD7VE5kQMZWGQ==",
+    "asset": "app/src/main/assets/vendor/turndown.js",
+    "sha256": "cdf933e0a2085df3c64d6c763331f04345f6c3b25746216e8f1426c9c5253045",
+    "notice": "third_party/notices/turndown-7.2.4-LICENSE.txt"
+  },
+  {
+    "name": "turndown-plugin-gfm",
+    "version": "1.0.2",
+    "license": "MIT",
+    "source": {
+      "url": "git+https://github.com/domchristie/turndown-plugin-gfm.git",
+      "type": "git"
+    },
+    "tarball": "https://registry.npmjs.org/turndown-plugin-gfm/-/turndown-plugin-gfm-1.0.2.tgz",
+    "integrity": "sha512-vwz9tfvF7XN/jE0dGoBei3FXWuvll78ohzCZQuOb+ZjWrs3a0XhQVomJEb2Qh4VHTPNRO4GPZh0V7VRbiWwkRg==",
+    "asset": "app/src/main/assets/vendor/turndown-plugin-gfm.js",
+    "sha256": "cf744cc1b7580f06d64ce236a4ff2630a53d389eccf2133a09d71ca443511912",
+    "notice": "third_party/notices/turndown-plugin-gfm-1.0.2-LICENSE.txt"
+  }
+]
