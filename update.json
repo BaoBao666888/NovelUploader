@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.5.4",
-      "version_code": "12",
+      "version_name": "0.5.5",
+      "version_code": "13",
       "mandatory": false,
-      "changelog": "Soạn tin diễn đàn trực quan, có định dạng và xem trước\nSửa skeleton khi làm mới Hộp thư và Diễn đàn\nAvatar và tên người gửi chat mở trang cá nhân\nGiữ URL đang xem để sửa, thêm menu nhấn giữ lịch sử và điền gợi ý\nBack từ liên kết về đúng màn app, đóng tab vừa mở\nThông báo hiện nội dung mới có sẵn trong dữ liệu quét\nĐối chiếu sau lỗi upload, phân biệt server đang xử lý và phần cần kiểm tra\nTự tìm lại link trong Works, đọc lịch sử sửa/xóa và theo dõi từng quyển\nTiếp tục quét sau 30 phút rồi mỗi giờ, giữ lịch khi đóng app\nTiếp tục phần chưa gửi, tránh nhúng trùng khi mất phản hồi hoặc thiếu link",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.4/NovelUploader-0.5.4.apk",
-      "sha256": "34bb5b94ee722b80872d35fb4fa9092ab0a5da3a044a6d61fa968d9fbea44b27",
-      "size": 3547550,
+      "changelog": "Cài lại bản cập nhật từ APK đã tải, kiểm tra đúng phiên bản\nChỉ báo cập nhật khi file trên GitHub đã sẵn sàng\nCảnh báo khi giữ emoji trong TXT và trước upload\nĐối chiếu upload lỗi qua Works/lịch sử, tìm lại link và theo dõi từng quyển\nTiếp tục phần chưa gửi, tránh nhúng trùng và tự quét chờ server\nSoạn tin diễn đàn trực quan, sửa skeleton Hộp thư/Diễn đàn\nTrình duyệt giữ URL đang sửa, menu lịch sử và Back về đúng màn nguồn\nThông báo hiện nội dung mới, tên/ảnh chat mở hồ sơ",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.5/NovelUploader-0.5.5.apk",
+      "sha256": "7c725fb2ce3b8bfbd0129ce8b90f5e9fcee4d6d680a80f2c3d6845fde4f3fefc",
+      "size": 3549258,
       "min_sdk": 26
     }
   }
