@@ -4,10 +4,10 @@
       "version_name": "0.5.4",
       "version_code": "12",
       "mandatory": false,
-      "changelog": "Soạn tin diễn đàn trực quan, có định dạng và xem trước\nSửa skeleton khi làm mới Hộp thư và Diễn đàn\nAvatar và tên người gửi chat mở trang cá nhân\nGiữ URL đang xem để sửa, thêm menu nhấn giữ lịch sử và điền gợi ý\nBack từ liên kết về đúng màn app, đóng tab vừa mở\nThông báo hiện nội dung mới có sẵn trong dữ liệu quét",
+      "changelog": "Soạn tin diễn đàn trực quan, có định dạng và xem trước\nSửa skeleton khi làm mới Hộp thư và Diễn đàn\nAvatar và tên người gửi chat mở trang cá nhân\nGiữ URL đang xem để sửa, thêm menu nhấn giữ lịch sử và điền gợi ý\nBack từ liên kết về đúng màn app, đóng tab vừa mở\nThông báo hiện nội dung mới có sẵn trong dữ liệu quét\nĐối chiếu sau lỗi upload, phân biệt server đang xử lý và phần cần kiểm tra\nTự tìm lại link trong Works, đọc lịch sử sửa/xóa và theo dõi từng quyển\nTiếp tục quét sau 30 phút rồi mỗi giờ, giữ lịch khi đóng app\nTiếp tục phần chưa gửi, tránh nhúng trùng khi mất phản hồi hoặc thiếu link",
       "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.4/NovelUploader-0.5.4.apk",
-      "sha256": "143349321b1290a6e2d4989c5e1bda9962cc52d1ad468f9621175d201132d243",
-      "size": 3533026,
+      "sha256": "34bb5b94ee722b80872d35fb4fa9092ab0a5da3a044a6d61fa968d9fbea44b27",
+      "size": 3547550,
       "min_sdk": 26
     }
   }
