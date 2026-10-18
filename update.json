@@ -4,10 +4,10 @@
       "version_name": "0.5.6",
       "version_code": "14",
       "mandatory": false,
-      "changelog": "Sửa lỗi chữ khi tải truyện lên\nSoạn tin trực quan hoặc Markdown, thêm tên liên kết và icon Wiki\nChat dễ theo dõi hơn, có trích dẫn và trả lời từ thông báo\nChia chương chính xác hơn, có xem trước theo số chương dự kiến\nGiữ file TXT gốc, mở file lớn nhẹ hơn\nSắp xếp lại công cụ trình duyệt",
+      "changelog": "Sửa lỗi chữ khi tải truyện lên\nSửa hiển thị tin nhắn và thời gian\nChat mở ngay tin mới, kéo lên xem tin cũ\nTrả lời tin nhắn và bình luận từ thông báo\nGiữ và làm mới cuộc trò chuyện trong thông báo\nSoạn trực quan hoặc Markdown, thêm tên liên kết\nChia chương chính xác hơn và giữ file gốc\nNhận đúng số chương khi nhập ZIP",
       "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.6/NovelUploader-0.5.6.apk",
-      "sha256": "32254ae8191769e251c055158c72102c2b64e72f2c6f847bf15a5ab389726341",
-      "size": 3580442,
+      "sha256": "5fccebc54461d5b5ccef77de68833bf02feeba15f1709c9d0ebdacbcad786deb",
+      "size": 3602710,
       "min_sdk": 26
     }
   }
