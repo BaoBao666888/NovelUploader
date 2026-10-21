@@ -9,7 +9,9 @@ App Android quản lý WikiCV, bản thảo TXT, nhúng truyện và hộp thư.
 - Hai bản nháp Nhúng mới/Sửa, Autofill và Gemini AI tùy chọn.
 - Trình duyệt có tab, tìm kiếm/gợi ý, dịch, chặn quảng cáo và menu nhấn giữ link/ảnh/lịch sử và quay lại màn nguồn.
 - Tin nhắn, bình luận, báo lỗi và thông báo nền.
-- Diễn đàn có soạn tin trực quan, xem trước, nội dung mới ở trên và quét thông báo chung Hộp thư.
+- Diễn đàn có soạn trực quan/Markdown, xem trước và quét thông báo chung Hộp thư.
+- Chat/bình luận/bài viết có màn đọc gọn, mở ngay tin mới và menu thao tác từng tin.
+- Gửi ảnh/file qua dịch vụ tạm, tự lưu file nhỏ trong app để xem lại khi link hết hạn.
 
 ## Cập nhật
 
