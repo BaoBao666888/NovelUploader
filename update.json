@@ -4,10 +4,10 @@
       "version_name": "0.5.9",
       "version_code": "17",
       "mandatory": false,
-      "changelog": "Sửa lỗi tải file và nhúng truyện.\nXem thông tin mọi truyện, quản lý Name và đồng quản lý trong app.\nThêm mẫu xin xóa, nhúng lại và theo dõi kết quả trên diễn đàn.\nSửa hộp thư, làm mượt trò chuyện và mở rộng ô nhập.\nCải thiện trình duyệt và nhận link chia sẻ.",
+      "changelog": "Sửa lỗi tải file và nhúng truyện.\nXem mọi truyện, quản lý Name và đồng quản lý thuận tiện hơn.\nThêm mẫu xin xóa, nhúng lại và theo dõi trên diễn đàn.\nChat mượt hơn, thêm GIF Wiki và tùy chỉnh làm mới nhanh.\nXem trước link, ảnh và video ngay trong app.\nCải thiện trình duyệt, chọn nguồn và cài đặt bộ nhớ.",
       "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.9/NovelUploader-0.5.9.apk",
-      "sha256": "2a0da7a683a437c39e4b67b3c8ae6c2e3d85920477a0c3fe2445a724bdedca46",
-      "size": 3915705,
+      "sha256": "e3fbeafa6f8d9490bb7b23e25e988559eb90c0d61b3dc2be6cd52435ad71d133",
+      "size": 3949232,
       "min_sdk": 26
     }
   }

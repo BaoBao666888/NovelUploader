@@ -18,4 +18,6 @@ Lượt gợi ý không gửi cookie trình duyệt hoặc API key. Lịch sử 
 
 Khi đính kèm ảnh/file, sau khi bạn xác nhận, file gốc được tải lên [tmpfiles.org](https://tmpfiles.org/tos), lưu tạm 1, 24 hoặc 48 giờ. Ai có liên kết đều có thể xem. Không gửi dữ liệu cá nhân hoặc quan trọng. File có thể bị xóa sớm. App không gửi cookie đăng nhập hoặc API key tới dịch vụ lưu file tạm.
 
-Khi nhận Chia sẻ từ ứng dụng khác, app sao chép file vào bộ nhớ tạm trên máy để bạn chọn nhập TXT, chia chương hoặc đính kèm. Không tự tải lên mạng. Bản tạm chưa dùng được dọn khi mở app/nhận lượt mới sau24giờ hoặc khi vượt dung lượng. File đã nhập vào bản thảo được giữ theo dữ liệu của bạn.
+Khi nhận Chia sẻ từ ứng dụng khác, app sao chép file vào bộ nhớ tạm trên máy để bạn chọn nhập TXT, chia chương hoặc đính kèm. Không tự tải lên mạng. Bản tạm chưa dùng được dọn khi mở app/nhận lượt mới sau 24 giờ hoặc khi vượt dung lượng. File đã nhập vào bản thảo được giữ theo dữ liệu của bạn.
+
+Khi xem trước liên kết, app tải tiêu đề, mô tả và ảnh công khai từ trang được dẫn. Lượt xem trước không gửi cookie Wiki/forum hoặc API key. Video YouTube và Streamable chỉ mở trình phát khi bạn nhấn xem.
