@@ -7,3 +7,4 @@ releases-local/
 keystore-password.txt
 asset-key.hex
 public-files.zip
+.env

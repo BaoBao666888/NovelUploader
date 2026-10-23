@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.5.8",
-      "version_code": "16",
+      "version_name": "0.5.9",
+      "version_code": "17",
       "mandatory": false,
-      "changelog": "Chia TXT dễ chỉnh hơn, có thêm, gộp, dời điểm chia và hoàn tác\nGõ chat trực tiếp, sửa màn hình tải và chọn file\nTrình duyệt có tìm chữ, sửa chế độ máy tính và mở lại tab cũ\nNhận link và file chia sẻ từ ứng dụng khác",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.8/NovelUploader-0.5.8.apk",
-      "sha256": "726e0caebb385e64ed67fdd53dff14b3f19e600f9dd52251c1063abf4508372f",
-      "size": 3706397,
+      "changelog": "Sửa lỗi tải file và nhúng truyện.\nXem thông tin mọi truyện, quản lý Name và đồng quản lý trong app.\nThêm mẫu xin xóa, nhúng lại và theo dõi kết quả trên diễn đàn.\nSửa hộp thư, làm mượt trò chuyện và mở rộng ô nhập.\nCải thiện trình duyệt và nhận link chia sẻ.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.5.9/NovelUploader-0.5.9.apk",
+      "sha256": "2a0da7a683a437c39e4b67b3c8ae6c2e3d85920477a0c3fe2445a724bdedca46",
+      "size": 3915705,
       "min_sdk": 26
     }
   }
