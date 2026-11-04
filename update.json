@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.6.0",
-      "version_code": "18",
+      "version_name": "0.6.1",
+      "version_code": "19",
       "mandatory": false,
-      "changelog": "# Novel Uploader 0.6.0\n\n- Sửa GIF và trích dẫn trong chat Wiki bị hiện nguyên thẻ HTML, giữ liên kết để mở tin được trả lời.\n- Quay lại danh sách TXT nhanh hơn khi chưa sửa nội dung, giữ đúng trang đang xem.\n- Gợi ý lịch sử tìm/thay thế, từ khóa lọc, tên quyển và một số ô nhập thường dùng. Có thể xóa lịch sử trong Cài đặt, không lưu gợi ý chat hay API key.\n- Công việc chia trang 30 mục, mở tới đâu tải chi tiết quyển tới đó. Lọc được nhiều trạng thái và cờ, giảm dữ liệu form thừa trong công việc cũ.\n- Auto Fill Form có chế độ tự động: quét link, cập nhật điểm điều kiện, đề cử mẫu và chỉ hỏi dữ liệu còn thiếu. Vẫn có form thủ công. Sửa lấy số chương Qidian và nhận link JJWXC trên di động.\n- Hẹn ngày giờ đăng truyện hoặc bổ sung file/quyển, giữ riêng bản chụp nội dung đã chuẩn bị. Cảnh báo lịch trùng theo tên Trung và tác giả hoặc link truyện, có thể hủy hẹn. Lượt sau chờ lượt trước cùng truyện được đối chiếu, không tự gửi lại khi chưa rõ kết quả.\n\nLịch đăng dùng giờ của máy và cần phiên Wiki còn hiệu lực. Android có thể gửi muộn khi mất mạng hoặc tiết kiệm pin. Khôi phục snapshot đưa lịch về Chưa gửi để bạn hẹn lại.",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.0/NovelUploader-0.6.0.apk",
-      "sha256": "7f959eb4ce09d41ffe92fe4741e91f767c6502fe24fa52e5a71248ef183b6fad",
-      "size": 3994040,
+      "changelog": "# Novel Uploader 0.6.1\n\n- Chỉnh vị trí nút lấy dữ liệu ở Auto Fill Form: tách khỏi ô nhập link, dễ nhìn và dễ bấm hơn trong cả chế độ tự động lẫn thủ công.\n- Bộ lọc TXT cho phép chọn nhiều loại cùng lúc, như chương đã chèn, file nhỏ, emoji, ký tự ẩn hoặc ký tự lạ. Lấy các chương khớp ít nhất một loại đã chọn, kết hợp với từ khóa và phạm vi tìm kiếm.\n- Thêm **Lấy lại dữ liệu** trong từng công việc. Có thể xem và sao chép tên Việt, tên Trung, tác giả, giới thiệu, tag, nguồn và thông tin quyển đã lưu, xuất ZIP kèm các file chương còn trên máy.\n- Công việc mới giữ thêm tên tag đã chọn để dễ xem lại. Công việc cũ vẫn giữ mã tag nếu trước đó chưa lưu tên.\n\nNếu file chương đã bị xóa hoặc dọn, app báo số file thiếu và vẫn cho xuất thông tin truyện. Có thể tìm lại nội dung từ snapshot đã lưu. Lấy lại dữ liệu không gửi lại công việc hay thay bản nháp đang soạn.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.1/NovelUploader-0.6.1.apk",
+      "sha256": "e64ed046172e73fe0d1dd230dd88216e37c10e117af42b66189d1e74e860d88a",
+      "size": 4000416,
       "min_sdk": 26
     }
   }
