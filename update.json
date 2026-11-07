@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.6.1",
-      "version_code": "19",
+      "version_name": "0.6.2",
+      "version_code": "20",
       "mandatory": false,
-      "changelog": "# Novel Uploader 0.6.1\n\n- Chỉnh vị trí nút lấy dữ liệu ở Auto Fill Form: tách khỏi ô nhập link, dễ nhìn và dễ bấm hơn trong cả chế độ tự động lẫn thủ công.\n- Bộ lọc TXT cho phép chọn nhiều loại cùng lúc, như chương đã chèn, file nhỏ, emoji, ký tự ẩn hoặc ký tự lạ. Lấy các chương khớp ít nhất một loại đã chọn, kết hợp với từ khóa và phạm vi tìm kiếm.\n- Thêm **Lấy lại dữ liệu** trong từng công việc. Có thể xem và sao chép tên Việt, tên Trung, tác giả, giới thiệu, tag, nguồn và thông tin quyển đã lưu, xuất ZIP kèm các file chương còn trên máy.\n- Công việc mới giữ thêm tên tag đã chọn để dễ xem lại. Công việc cũ vẫn giữ mã tag nếu trước đó chưa lưu tên.\n\nNếu file chương đã bị xóa hoặc dọn, app báo số file thiếu và vẫn cho xuất thông tin truyện. Có thể tìm lại nội dung từ snapshot đã lưu. Lấy lại dữ liệu không gửi lại công việc hay thay bản nháp đang soạn.",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.1/NovelUploader-0.6.1.apk",
-      "sha256": "e64ed046172e73fe0d1dd230dd88216e37c10e117af42b66189d1e74e860d88a",
-      "size": 4000416,
+      "changelog": "# Novel Uploader 0.6.2\n\n- Sửa thông tin lấy lại dữ liệu hiện chữ null. Thêm nhập ZIP có xem trước và xác nhận thay bản nháp.\n- Cảnh báo khi nhúng hoặc tải thêm vào truyện đang có lịch.\n- Cải thiện tải theo lịch khi rời app, có thông báo tiến độ và nút dừng.\n- Sửa thông báo bổ sung file và chuẩn hóa 1 số thông báo.\n- Hiển thị changelog cập nhật có tiêu đề, danh sách và chữ đậm dễ đọc hơn.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.2/NovelUploader-0.6.2.apk",
+      "sha256": "aa698f4e7d02338ddff567eadd25eed37d25e39dec5bdd4fbff5a8ea74c875e7",
+      "size": 4235196,
       "min_sdk": 26
     }
   }
