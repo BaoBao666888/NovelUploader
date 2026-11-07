@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.6.3",
-      "version_code": "21",
+      "version_name": "0.6.4",
+      "version_code": "22",
       "mandatory": false,
-      "changelog": "# Novel Uploader 0.6.3\n\n- Sửa chữ null trong khung lấy lại dữ liệu.\n- Cải thiện tải lên khi hẹn giờ và khi đưa app chạy nền.\n- Hiện rõ lỗi tải lên, phân biệt phần chưa gửi với phần chờ đối chiếu.\n- Thêm đếm ngược kèm ngày giờ hẹn đăng.\n- Thêm liên kết công việc thành chuỗi, chỉ chạy lượt sau khi lượt trước đã xác nhận.",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.3/NovelUploader-0.6.3.apk",
-      "sha256": "c734b90dce50335121bec97e38b6530f20dd8bfd68bdfcdb2d44b7a082730e58",
-      "size": 4245860,
+      "changelog": "# Novel Uploader 0.6.4\n\n- Sửa tải lên ngay bị chờ quá lâu mới bắt đầu.\n- Sửa lịch đăng quá giờ nhưng không tự chạy, tự kiểm tra lượt quá hạn khi mở lại app.\n- Hiện lý do khi chưa khởi động được tải nền, tránh để công việc chờ mãi.\n- Hiện nút Dừng ngay từ lúc chuẩn bị tải.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.4/NovelUploader-0.6.4.apk",
+      "sha256": "ea83b24bec5690e6149b05f28c73f63c8976a27bacaf280a92996289ec00bf3e",
+      "size": 4252120,
       "min_sdk": 26
     }
   }
