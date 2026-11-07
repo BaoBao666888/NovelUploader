@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.6.2",
-      "version_code": "20",
+      "version_name": "0.6.3",
+      "version_code": "21",
       "mandatory": false,
-      "changelog": "# Novel Uploader 0.6.2\n\n- Sửa thông tin lấy lại dữ liệu hiện chữ null. Thêm nhập ZIP có xem trước và xác nhận thay bản nháp.\n- Cảnh báo khi nhúng hoặc tải thêm vào truyện đang có lịch.\n- Cải thiện tải theo lịch khi rời app, có thông báo tiến độ và nút dừng.\n- Sửa thông báo bổ sung file và chuẩn hóa 1 số thông báo.\n- Hiển thị changelog cập nhật có tiêu đề, danh sách và chữ đậm dễ đọc hơn.",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.2/NovelUploader-0.6.2.apk",
-      "sha256": "aa698f4e7d02338ddff567eadd25eed37d25e39dec5bdd4fbff5a8ea74c875e7",
-      "size": 4235196,
+      "changelog": "# Novel Uploader 0.6.3\n\n- Sửa chữ null trong khung lấy lại dữ liệu.\n- Cải thiện tải lên khi hẹn giờ và khi đưa app chạy nền.\n- Hiện rõ lỗi tải lên, phân biệt phần chưa gửi với phần chờ đối chiếu.\n- Thêm đếm ngược kèm ngày giờ hẹn đăng.\n- Thêm liên kết công việc thành chuỗi, chỉ chạy lượt sau khi lượt trước đã xác nhận.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.3/NovelUploader-0.6.3.apk",
+      "sha256": "c734b90dce50335121bec97e38b6530f20dd8bfd68bdfcdb2d44b7a082730e58",
+      "size": 4245860,
       "min_sdk": 26
     }
   }
