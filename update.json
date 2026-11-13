@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.6.5",
-      "version_code": "23",
+      "version_name": "0.6.6",
+      "version_code": "24",
       "mandatory": false,
-      "changelog": "# Novel Uploader 0.6.5\n\n- Sửa thông tin khôi phục truyện còn hiện chữ null.\n- Cải thiện tải lên ngay, tải theo lịch và khi đưa app chạy nền.\n- Tự kiểm tra lịch quá hạn khi mở app, hiện rõ lý do nếu chưa bắt đầu tải được.\n- Thêm đếm ngược, ngày giờ hẹn đăng và nút Dừng ngay khi chuẩn bị tải.\n- Cho phép liên kết nhiều công việc, lượt sau chỉ chạy khi lượt trước đã xác nhận.\n- Sửa lỗi xem trước khi chia TXT.",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.5/NovelUploader-0.6.5.apk",
-      "sha256": "43e33cd1827b26598ef21f500e9674dfe1c805077a25fe9e1fe6b44226e56e10",
-      "size": 4252116,
+      "changelog": "# Novel Uploader 0.6.6\n\n- Thêm xem review trong thông tin truyện, sửa mở và đánh dấu đã đọc thông báo review.\n- Mục lục cho chọn quyển, dành thêm chỗ cho tên chương.\n- Đối chiếu Works để bổ sung truyện còn thiếu và duyệt các bản lưu dư.\n- Thêm lọc Đã lưu theo ngày cập nhật, số chương và cách khớp tất cả hoặc một điều kiện.\n- Dùng cache khi làm mới liên tiếp quá nhanh.\n- Chia cài đặt theo nhóm, thêm tìm kiếm và tùy chọn xem trước liên kết.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.6/NovelUploader-0.6.6.apk",
+      "sha256": "5e334864e05fef7d501fbe8d91e87b80e4e36f0feaaa82ac1617b354242a2617",
+      "size": 4286229,
       "min_sdk": 26
     }
   }
