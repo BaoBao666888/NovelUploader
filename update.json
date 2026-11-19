@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.6.6",
-      "version_code": "24",
+      "version_name": "0.6.7",
+      "version_code": "25",
       "mandatory": false,
-      "changelog": "# Novel Uploader 0.6.6\n\n- Thêm xem review trong thông tin truyện, sửa mở và đánh dấu đã đọc thông báo review.\n- Mục lục cho chọn quyển, dành thêm chỗ cho tên chương.\n- Đối chiếu Works để bổ sung truyện còn thiếu và duyệt các bản lưu dư.\n- Thêm lọc Đã lưu theo ngày cập nhật, số chương và cách khớp tất cả hoặc một điều kiện.\n- Dùng cache khi làm mới liên tiếp quá nhanh.\n- Chia cài đặt theo nhóm, thêm tìm kiếm và tùy chọn xem trước liên kết.",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.6/NovelUploader-0.6.6.apk",
-      "sha256": "5e334864e05fef7d501fbe8d91e87b80e4e36f0feaaa82ac1617b354242a2617",
-      "size": 4286229,
+      "changelog": "# Novel Uploader 0.6.7\n\n- Lấy dữ liệu truyện mà không phải tải lại form WikiCV. Fanqie có thể dùng trang truyện đã mở.\n- Giữ xuống dòng trong văn án Qidian.\n- Mở được liên kết HTTP trong trình duyệt của app.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.7/NovelUploader-0.6.7.apk",
+      "sha256": "7d3f8c2b7f457e6b2b31b29059fe6c1d0005b83ab4c29b6cc3fdc59412adb07b",
+      "size": 4290277,
       "min_sdk": 26
     }
   }
