@@ -1,13 +1,13 @@
 {
   "targets": {
     "android": {
-      "version_name": "0.6.7",
-      "version_code": "25",
+      "version_name": "0.6.8",
+      "version_code": "26",
       "mandatory": false,
-      "changelog": "# Novel Uploader 0.6.7\n\n- Lấy dữ liệu truyện mà không phải tải lại form WikiCV. Fanqie có thể dùng trang truyện đã mở.\n- Giữ xuống dòng trong văn án Qidian.\n- Mở được liên kết HTTP trong trình duyệt của app.",
-      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.7/NovelUploader-0.6.7.apk",
-      "sha256": "7d3f8c2b7f457e6b2b31b29059fe6c1d0005b83ab4c29b6cc3fdc59412adb07b",
-      "size": 4290277,
+      "changelog": "# Novel Uploader 0.6.8\n\n- Thêm nút Thử lại khi lượt bổ sung chương bị gián đoạn. App kiểm tra số chương và lịch sử trước khi hỏi xác nhận gửi lại.",
+      "url": "https://github.com/BaoBao666888/NovelUploader/releases/download/v0.6.8/NovelUploader-0.6.8.apk",
+      "sha256": "c69577381a0bdcb833e94b33bfece19ebafe67afd95f6de1b5d1515d129caa86",
+      "size": 4292125,
       "min_sdk": 26
     }
   }
